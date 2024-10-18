@@ -12,15 +12,15 @@ Step 1: Clone the Repository
     Navigate to the directory where you want to clone the repository.
     Run the following command, replacing <repo-url> with your GitHub repository URL:
 
-    bash
+    bash `git clone https://github.com/linuxLover-byte/Randumi.git`
 
-git clone https://github.com/linuxLover-byte/Randumi.git
+
 
 Navigate into the cloned repository:
 
 bash
 
-    cd <repository-name>
+    `cd <repository-name>`
 
 Step 2: Open the Project in Android Studio
 
