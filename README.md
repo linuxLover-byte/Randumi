@@ -3,9 +3,6 @@
 ![randumi](https://github.com/user-attachments/assets/4949f7c1-287a-4e25-bc20-88b19bc37157)
 
 
-
-**-------------------------------------------------------------------------------------------------------------**
-
 Prerequisites
 
     Java Development Kit (JDK) installed.
