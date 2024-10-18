@@ -12,7 +12,9 @@ Step 1: Clone the Repository
     Navigate to the directory where you want to clone the repository.
     Run the following command, replacing <repo-url> with your GitHub repository URL:
 
-    bash `git clone https://github.com/linuxLover-byte/Randumi.git`
+    bash 
+    
+    `git clone https://github.com/linuxLover-byte/Randumi.git`
 
 
 
